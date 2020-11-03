@@ -1,1 +1,1 @@
-# Fruit-Image-Classification-With-Image-Processing-Algorithms
+# Fruit-Image-Classification-Using-Image-Processing-Algorithms
